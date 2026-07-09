@@ -1,0 +1,16 @@
+﻿Code_Article;Designation;Type_Article;Famille;Unite;Coût_Unitaire;Prix_Vente;Stock_Actuel;Delai_Appro_j;Fournisseur_Principal;Coût_Commande;Taux_Possession;Lot;SS_Min;Statut;Consommation_Annuelle;Valeur_Stock;Coût_Possession_Unitaire
+PF-KIT-GAG-1000;Kit irrigation goutte-à-goutte 1000 m²;Produit fini;Irrigation goutte-à-goutte;kit;650;1200;35;14;Atelier Atlas;250;0.2;20;10;Actif;751;22750;130
+PF-KIT-SOL-2000;Kit pompage solaire 2000 L/h;Produit fini;Pompage solaire;kit;3800;6500;12;21;Atelier Atlas;300;0.2;5;3;Critique;357;45600;760
+PF-FILTRE-120;Filtre irrigation 120 mesh assemblé;Produit fini;Filtration;unité;140;260;80;7;Atelier Atlas;200;0.2;30;20;Actif;1012;11200;28
+PF-KIT-MAR-500;Kit maraîchage compact 500 m²;Produit fini;Irrigation maraîchère;kit;950;1600;25;14;Atelier Atlas;250;0.2;15;8;Actif;459;23750;190
+CMP-TUY-PE16;Tuyau PE 16 mm;Composant;Hydraulique;m;2.8;;7500;8;HydroMaroc;220;0.2;1000;600;Actif;102640;21000;0.5599999999999999
+CMP-GOUT-4L;Goutteur 4 L/h;Composant;Irrigation goutte-à-goutte;pièce;0.9;;12000;12;AgriDrop;180;0.2;5000;1200;Critique;256600;10800;0.18000000000000002
+CMP-FILT-DISQUE;Filtre à disque;Composant;Filtration;pièce;95;;80;10;FilterPro;240;0.2;30;15;Critique;1763;7600;19
+CMP-RACC-16;Raccord 16 mm;Composant;Hydraulique;pièce;1.2;;3000;7;HydroMaroc;180;0.2;1000;350;Actif;41515;3600;0.24
+CMP-VANNE-16;Vanne 16 mm;Composant;Hydraulique;pièce;12.5;;380;9;AquaVannes;200;0.2;200;50;Actif;8303;4750;2.5
+CMP-POMPE-DC;Pompe solaire DC;Composant;Pompage solaire;pièce;850;;30;18;SolarPump;350;0.2;10;6;Critique;357;25500;170
+CMP-PAN-250W;Panneau solaire 250 W;Composant;Pompage solaire;pièce;1100;;22;21;SolarPanel Maroc;400;0.2;10;8;Critique;714;24200;220
+CMP-CONTROLEUR;Contrôleur solaire;Composant;Électrique;pièce;230;;40;14;SolarPump;280;0.2;20;8;Critique;357;9200;46
+CMP-CABLE-SOL;Câble solaire 4 mm²;Composant;Électrique;m;6.5;;480;6;ElectroAgri;170;0.2;500;120;Actif;7140;3120;1.3
+CMP-CART-120;Cartouche filtre 120 mesh;Composant;Filtration;pièce;45;;120;5;FilterPro;180;0.2;50;20;Actif;1012;5400;9
+MP-PEHD;Granulé PEHD;Matière première;Matière plastique;kg;18;;1000;15;PolyTech;260;0.2;500;150;Actif;0;18000;3.6

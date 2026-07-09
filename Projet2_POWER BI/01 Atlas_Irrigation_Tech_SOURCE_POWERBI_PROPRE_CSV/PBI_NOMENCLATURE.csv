@@ -1,0 +1,17 @@
+﻿Code_Produit_Fini;Designation_Produit;Code_Composant;Designation_Composant;Quantite_Par_Produit;Unite;Niveau
+PF-KIT-GAG-1000;Kit irrigation goutte-à-goutte 1000 m²;CMP-TUY-PE16;Tuyau PE 16 mm;100;m;1
+PF-KIT-GAG-1000;Kit irrigation goutte-à-goutte 1000 m²;CMP-GOUT-4L;Goutteur 4 L/h;250;pièce;1
+PF-KIT-GAG-1000;Kit irrigation goutte-à-goutte 1000 m²;CMP-FILT-DISQUE;Filtre à disque;1;pièce;1
+PF-KIT-GAG-1000;Kit irrigation goutte-à-goutte 1000 m²;CMP-RACC-16;Raccord 16 mm;40;pièce;1
+PF-KIT-GAG-1000;Kit irrigation goutte-à-goutte 1000 m²;CMP-VANNE-16;Vanne 16 mm;8;pièce;1
+PF-KIT-SOL-2000;Kit pompage solaire 2000 L/h;CMP-POMPE-DC;Pompe solaire DC;1;pièce;1
+PF-KIT-SOL-2000;Kit pompage solaire 2000 L/h;CMP-PAN-250W;Panneau solaire 250 W;2;pièce;1
+PF-KIT-SOL-2000;Kit pompage solaire 2000 L/h;CMP-CONTROLEUR;Contrôleur solaire;1;pièce;1
+PF-KIT-SOL-2000;Kit pompage solaire 2000 L/h;CMP-CABLE-SOL;Câble solaire 4 mm²;20;m;1
+PF-FILTRE-120;Filtre irrigation 120 mesh assemblé;CMP-CART-120;Cartouche filtre 120 mesh;1;pièce;1
+PF-FILTRE-120;Filtre irrigation 120 mesh assemblé;CMP-FILT-DISQUE;Filtre à disque;1;pièce;1
+PF-KIT-MAR-500;Kit maraîchage compact 500 m²;CMP-TUY-PE16;Tuyau PE 16 mm;60;m;1
+PF-KIT-MAR-500;Kit maraîchage compact 500 m²;CMP-GOUT-4L;Goutteur 4 L/h;150;pièce;1
+PF-KIT-MAR-500;Kit maraîchage compact 500 m²;CMP-RACC-16;Raccord 16 mm;25;pièce;1
+PF-KIT-MAR-500;Kit maraîchage compact 500 m²;CMP-VANNE-16;Vanne 16 mm;5;pièce;1
+CMP-TUY-PE16;Tuyau PE 16 mm;MP-PEHD;Granulé PEHD;0.12;kg;2

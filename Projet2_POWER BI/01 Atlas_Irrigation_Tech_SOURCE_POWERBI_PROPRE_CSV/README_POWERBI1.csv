@@ -1,0 +1,6 @@
+﻿Rubrique;Instruction
+But du fichier;Ce classeur est une source propre pour Power BI. Il ne contient que des tables plates, sans cellules fusionnées, sans graphiques Excel et sans lignes décoratives.
+Méthode recommandée;Dans Power BI : Obtenir les données > Excel > sélectionner ce fichier > choisir uniquement les tables PBI_*.
+Important;Ne pas importer les feuilles décorées du classeur Excel de travail. Importer uniquement les tables PBI propres de ce fichier.
+Relation centrale;PBI_ARTICLES[Code_Article] est la table de référence principale.
+Pages Power BI conseillées;1) Synthèse, 2) ABC, 3) Prévisions & PDP, 4) CBN/MRP & Stocks, 5) Wilson, 6) Fournisseurs & Alertes.

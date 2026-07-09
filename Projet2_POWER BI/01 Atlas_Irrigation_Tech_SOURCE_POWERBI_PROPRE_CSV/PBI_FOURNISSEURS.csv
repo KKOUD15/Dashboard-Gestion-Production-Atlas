@@ -1,0 +1,9 @@
+﻿Fournisseur;Famille;Prix_10;Qualite_10;Delai_10;Fiabilite_10;Reactivite_10;Score_Global;Classe_Fournisseur;Decision
+HydroMaroc;Hydraulique;8.5;8;7.5;8;8;8.025;Excellent;Fournisseur prioritaire
+AgriDrop;Goutteurs;9;8.5;7;7.5;8.5;8.175;Excellent;Fournisseur prioritaire
+FilterPro;Filtration;7.5;9;8;8;7;8.075;Excellent;Fournisseur prioritaire
+AquaVannes;Vannes;7;8;7.5;7;7.5;7.45;Acceptable;Suivi périodique
+SolarPump;Pompage solaire;7;8.5;6.5;7;8;7.449999999999999;Acceptable;Suivi périodique
+SolarPanel Maroc;Panneaux solaires;6.5;9;6;6.5;7;7.199999999999999;Acceptable;Suivi périodique
+ElectroAgri;Électrique;8;8;8.5;8;8.5;8.15;Excellent;Fournisseur prioritaire
+PolyTech;Matière plastique;8;7.5;7;7;7.5;7.45;Acceptable;Suivi périodique

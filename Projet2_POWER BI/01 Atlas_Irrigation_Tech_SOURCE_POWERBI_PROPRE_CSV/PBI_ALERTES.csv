@@ -1,0 +1,16 @@
+﻿Code_Article;Designation;Classe_ABC;Stock_Actuel;Point_Commande;Besoin_Net_Qe;Fournisseur;Statut_Alerte;Priorite;Validation_Manager;Action
+PF-KIT-GAG-1000;Kit irrigation goutte-à-goutte 1000 m²;A;35;40;5;Atelier Atlas;ALERTE FOURNISSEUR;Critique;En attente;Attendre validation
+PF-KIT-SOL-2000;Kit pompage solaire 2000 L/h;A;12;28;16;Atelier Atlas;ALERTE FOURNISSEUR;Critique;En attente;Attendre validation
+PF-FILTRE-120;Filtre irrigation 120 mesh assemblé;B;80;28;0;Atelier Atlas;AUCUNE ALERTE;Aucune;En attente;Aucune action
+PF-KIT-MAR-500;Kit maraîchage compact 500 m²;A;25;25;0;Atelier Atlas;AUCUNE ALERTE;Aucune;En attente;Aucune action
+CMP-TUY-PE16;Tuyau PE 16 mm;B;7500;3138;0;HydroMaroc;AUCUNE ALERTE;Aucune;En attente;Aucune action
+CMP-GOUT-4L;Goutteur 4 L/h;B;12000;11487;0;AgriDrop;AUCUNE ALERTE;Aucune;En attente;Aucune action
+CMP-FILT-DISQUE;Filtre à disque;B;80;67;0;FilterPro;AUCUNE ALERTE;Aucune;En attente;Aucune action
+CMP-RACC-16;Raccord 16 mm;C;3000;1121;0;HydroMaroc;AUCUNE ALERTE;Aucune;En attente;Aucune action
+CMP-VANNE-16;Vanne 16 mm;C;380;285;0;AquaVannes;AUCUNE ALERTE;Aucune;En attente;Aucune action
+CMP-POMPE-DC;Pompe solaire DC;A;30;25;0;SolarPump;AUCUNE ALERTE;Aucune;En attente;Aucune action
+CMP-PAN-250W;Panneau solaire 250 W;A;22;55;33;SolarPanel Maroc;ALERTE FOURNISSEUR;Critique;En attente;Attendre validation
+CMP-CONTROLEUR;Contrôleur solaire;C;40;19;0;SolarPump;AUCUNE ALERTE;Aucune;En attente;Aucune action
+CMP-CABLE-SOL;Câble solaire 4 mm²;C;480;168;0;ElectroAgri;AUCUNE ALERTE;Aucune;En attente;Aucune action
+CMP-CART-120;Cartouche filtre 120 mesh;C;120;21;0;FilterPro;AUCUNE ALERTE;Aucune;En attente;Aucune action
+MP-PEHD;Granulé PEHD;C;1000;0;0;PolyTech;AUCUNE ALERTE;Aucune;En attente;Aucune action
